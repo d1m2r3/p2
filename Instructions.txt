@@ -1,0 +1,12 @@
+Instructions to use the shiny application under the project in
+Developing Data prodcuts course of Coursera
+
+1. Start RStudio
+2. Make sure the "shiny" package and "mtcars" data set are installed
+3. Copy the given UI.R and server.R to your current directory
+4. In RStudio, issue these commands
+   4.a. library("shiny")
+   4.b. runApp()
+5. You will see a new browser window open up in RStudio
+6. The application is self-explanatory  
+ 
